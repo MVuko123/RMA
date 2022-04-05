@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="task1">eat</string>
+    <string name="task2">pray</string>
+    <string name="task3">love</string>
+
+</resources>
