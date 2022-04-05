@@ -22,7 +22,7 @@ class NewActivity: AppCompatActivity()  {
         binding.fragment1Btn.setOnClickListener {
 
             replaceFragment(Fragment1())
-            
+
 
         }
 
