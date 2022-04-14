@@ -6,6 +6,7 @@ import android.util.Log
 import androidx.recyclerview.widget.RecyclerView
 import com.example.todo.R
 import com.example.todo.data.DataSource
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         recyclerView.adapter =  TaskAdapter(this, dataSet)
 
         //dodati edit text i button Add, i to ga dodaje na listu
+
     }
 }
