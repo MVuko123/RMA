@@ -9,7 +9,7 @@
     tools:context=".Dashboard">
 
     <androidx.appcompat.widget.Toolbar
-        android:id="@+id/dashboard_toolbar"
+        android:id="@+id/item_toolbar"
         android:layout_width="match_parent"
         android:layout_height="?android:actionBarSize"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
@@ -17,14 +17,14 @@
         />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_dashboard"
+        android:id="@+id/rv_item"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/dashboard_toolbar"
- />
+        android:layout_below="@+id/item_toolbar"
+        />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab_dashboard"
+        android:id="@+id/fab_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
@@ -38,5 +38,6 @@
         android:layout_marginBottom="22dp"
         android:src="@drawable/plus"
         app:backgroundTint="@color/colorPrimaryDark" />
+        />
 
 </RelativeLayout>
