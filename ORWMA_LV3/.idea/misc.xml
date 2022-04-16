@@ -4,13 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/drawable/ic_vertical_dot.xml" value="0.2595" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/activity_item.xml" value="0.10277777777777777" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/dialog_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
-        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/rv_child_dashboard.xml" value="0.1" />
-        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/rv_child_item.xml" value="0.1" />
+        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/rv_child_dashboard.xml" value="0.136" />
+        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/layout/rv_child_item.xml" value="0.16" />
+        <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/menu/dashboard_child.xml" value="0.144" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13" />
         <entry key="..\:/Users/marin/AndroidStudioProjects/ORWMA_LV3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
